@@ -4,4 +4,23 @@ img {
     margin 0 auto;
     max-height: 60%;
     max-width: 60%;
+
+}
+
+body {
+    background-color: #e6ffff; 
+    display: block;
+    text-align: center;
+}
+
+footer {
+    font-size: small;
+    background-color:#FFFF8B;
+    color: #765C5C;
+    text-align: center;
+    line-height: 150%;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+
 }
